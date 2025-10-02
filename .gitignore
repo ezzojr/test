@@ -1,0 +1,6 @@
+﻿# Ignore everything
+*
+
+# But track these
+!.gitignore
+!test.cpp
