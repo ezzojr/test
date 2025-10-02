@@ -8,7 +8,7 @@ int main() {
     char choice;
 
     do {
-        cout << "Enter first number: ";
+        cout << "Enter h number: ";
         cin >> num1;
 
         cout << "Enter operator (+, -, *, /, ^, %): ";
