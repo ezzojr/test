@@ -5,13 +5,13 @@ int main() {
     double num1, num2;
     char op;
 
-    cout << "Enter first number: ";
+    cout << "Enter number: ";
     cin >> num1;
 
     cout << "Enter operator (+, -, *, /): ";
     cin >> op;
 
-    cout << "Enter second number: ";
+    cout << "Enter number: ";
     cin >> num2;
 
     double result;
